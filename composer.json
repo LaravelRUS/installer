@@ -1,5 +1,5 @@
 {
-    "name": "atehnix/installer",
+    "name": "laravelrus/installer",
     "description": "LaravelRUS skeleton installer.",
     "keywords": ["laravel", "skeleton", "boilerplate", "installer"],
     "license": "MIT",

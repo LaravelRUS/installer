@@ -1,6 +1,6 @@
 # LaravelRUS Skeleton Installer
-[![Packagist Version](https://img.shields.io/packagist/v/atehnix/installer.svg)](https://packagist.org/packages/atehnix/installer)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/atehnix/installer/master/LICENSE)
+[![Packagist Version](https://img.shields.io/packagist/v/laravelrus/installer.svg)](https://packagist.org/packages/laravelrus/installer)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/laravelrus/installer/master/LICENSE)
 [![Gitter Chat](https://img.shields.io/badge/Laravel-RUS-red.svg)](https://gitter.im/LaravelRUS/chat)
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ####Выполнить:
 ```
-composer global require atehnix/installer
+composer global require laravelrus/installer
 ```
 Убедитесь в том, что директория `~/.composer/vendor/bin`  (или эквивалентная директория для вашей ОС) добавлена в переменную среды PATH, чтобы исполняемый файл `laravelrus` мог быть доступен в вашей системе.
 
@@ -39,8 +39,8 @@ laravelrus types
 
 #### Выполнить:
 ```
-composer global remove atehnix/installer
+composer global remove laravelrus/installer
 ```
 
 ## License
-[MIT](https://raw.githubusercontent.com/atehnix/installer/master/LICENSE)
+[MIT](https://raw.githubusercontent.com/laravelrus/installer/master/LICENSE)
