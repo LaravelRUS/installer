@@ -1,0 +1,24 @@
+{
+    "name": "atehnix/installer",
+    "description": "LaravelRUS skeleton installer.",
+    "keywords": ["laravel", "skeleton", "boilerplate", "installer"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrey Sosnov",
+            "email": "atehnix@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LaravelRUS\\Installer\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/console": "~2.3|~3.0",
+        "symfony/process": "~2.3|~3.0"
+    },
+    "bin": [
+        "laravelrus"
+    ]
+}
