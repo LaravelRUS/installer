@@ -21,10 +21,10 @@ laravelrus new MyApp
 
 #### Создание нового приложения определенного типа:
 ```
-laravelrus new MyApp --type api
+laravelrus new MyApp --type=api
 ```
 
-#### Просмотр списка доступных типов проектов:
+#### Просмотр списка доступных типов приложений:
 ```
 laravelrus types
 ```
