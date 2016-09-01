@@ -78,6 +78,11 @@ class NewCommand extends Command
         }
     }
 
+    /**
+     * Verify that the type exist.
+     *
+     * @param $type
+     */
     protected function verifyTypeExist($type)
     {
         if (!array_key_exists($type, $this->projects)) {

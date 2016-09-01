@@ -3,12 +3,7 @@
     "description": "LaravelRUS skeleton installer.",
     "keywords": ["laravel", "skeleton", "boilerplate", "installer"],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Andrey Sosnov",
-            "email": "atehnix@gmail.com"
-        }
-    ],
+    "homepage": "http://laravel.su",
     "autoload": {
         "psr-4": {
             "LaravelRUS\\Installer\\": "src/"

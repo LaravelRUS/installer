@@ -5,15 +5,15 @@ return [
         'name'        => 'laravelrus/skeleton',
         'description' => "Basic skeleton project. (Default type)",
     ],
-    'api'     => [
+    'api'   => [
         'name'        => 'laravelrus/skeleton-api',
         'description' => 'Skeleton project to create API-service. (Coming soon)',
     ],
-    'blog'     => [
+    'blog'  => [
         'name'        => 'laravelrus/skeleton-blog',
         'description' => 'Skeleton project to create blog. (Coming soon)',
     ],
-    'clean'   => [
+    'clean' => [
         'name'        => 'laravel/laravel',
         'description' => 'Clean laravel project.',
     ],
