@@ -2,7 +2,7 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/atehnix/installer/master/LICENSE)
 [![Packagist Version](https://img.shields.io/packagist/v/atehnix/installer.svg)](https://packagist.org/packages/atehnix/installer)
 
-Установщик skeleton-проектов от сообщеста LaravelRUS.
+Установщик skeleton-проектов от сообщества LaravelRUS.
 
 ## Установка
 
