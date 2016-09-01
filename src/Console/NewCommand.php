@@ -25,7 +25,8 @@ class NewCommand extends Command
             ->setName('new')
             ->setDescription('Create a new Laravel application.')
             ->addArgument('name', InputArgument::OPTIONAL)
-            ->addOption('type', 't', InputOption::VALUE_OPTIONAL);
+            ->addOption('type', 't', InputOption::VALUE_REQUIRED)
+            ->addOption('no-ansi', null, InputOption::VALUE_NONE);
     }
 
     /**
